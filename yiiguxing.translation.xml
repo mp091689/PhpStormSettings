@@ -1,12 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="model" />
+      <item value="tradersoft" />
       <item value="prohibited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
-        <entry key="RUSSIAN" value="4" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="RUSSIAN" value="6" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
