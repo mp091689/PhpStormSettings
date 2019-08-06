@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Check all rules if there is exists rule for admin panel. Loading scripts in admin panel should be prohibited." />
       <item value="model" />
       <item value="tradersoft" />
       <item value="prohibited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
-        <entry key="RUSSIAN" value="6" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="RUSSIAN" value="7" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
