@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Forbid agents access to irrelevant leads" />
       <item value="_init Default Allowed Rule For Admin" />
       <item value="// Check all rules if there is exists rule for admin panel. Loading scripts in admin panel should be prohibited." />
       <item value="model" />
@@ -9,8 +10,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
-        <entry key="RUSSIAN" value="8" />
+        <entry key="ENGLISH" value="11" />
+        <entry key="RUSSIAN" value="9" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
