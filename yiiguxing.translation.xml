@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prevent xss from user input" />
       <item value="definitions" />
       <item value="brokes" />
       <item value="NASTY" />
@@ -13,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
-        <entry key="RUSSIAN" value="12" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="RUSSIAN" value="13" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
