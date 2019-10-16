@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the assignment information regarding a role and a user" />
+      <item value="Revokes" />
       <item value="prevent xss from user input" />
       <item value="definitions" />
       <item value="brokes" />
@@ -14,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="15" />
-        <entry key="RUSSIAN" value="13" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="RUSSIAN" value="15" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
