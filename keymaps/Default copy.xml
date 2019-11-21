@@ -7,7 +7,7 @@
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="PhpListenDebugAction">
-    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
