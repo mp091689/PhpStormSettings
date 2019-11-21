@@ -1,7 +1,13 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
