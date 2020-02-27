@@ -4,7 +4,7 @@
     <property name="created">2019-08-01T14:16:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-02-19T13:42:25</property>
+    <property name="modified">2020-02-27T09:10:10</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -2176,7 +2176,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="415967" />
+        <option name="FOREGROUND" value="5f8391" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
