@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="получить список с учетом типа" />
+      <item value="список с учетом типа" />
       <item value="Register an attendee for a scheduled webinar" />
       <item value="either" />
       <item value="revoke" />
@@ -19,9 +21,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="20" />
-        <entry key="RUSSIAN" value="18" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="RUSSIAN" value="20" />
         <entry key="SWEDISH" value="1" />
+        <entry key="ESPERANTO" value="1" />
       </map>
     </option>
   </component>
