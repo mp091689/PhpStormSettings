@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mentions" />
       <item value="$user Id" />
       <item value="получить список с учетом типа" />
       <item value="список с учетом типа" />
@@ -23,7 +24,8 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="22" />
-        <entry key="RUSSIAN" value="21" />
+        <entry key="RUSSIAN" value="22" />
+        <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
